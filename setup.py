@@ -7,7 +7,7 @@ except ImportError:
 
 setup(
     name='TranscriptBot',
-    version='0.1.3',
+    version='0.1.4',
     description='Real-time voice transcription Slack bot',
     author='Anastasis Germanidis',
     author_email='agermanidis@gmail.com',
