@@ -11,7 +11,7 @@ setup(
     description='Real-time voice transcription Slack bot',
     author='Anastasis Germanidis',
     author_email='agermanidis@gmail.com',
-    url='https://github.com/agermanidis/TranscriptBot',
+    url='https://github.com/bigbgh/TranscriptBot',
     packages=['transcriptbot'],
     scripts=['bin/transcriptbot'],
     install_requires=[
