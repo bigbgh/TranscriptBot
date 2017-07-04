@@ -18,7 +18,7 @@ setup(
         'requests==2.3.0',
         'tabulate==0.7.5',
         'sounddevice==0.3.3',
-        'PyAudio==0.2.7',
+        'PyAudio>=0.2.7',
         'docopt==0.6.2'
     ],
     license=open("LICENSE").read()
